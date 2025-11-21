@@ -7,6 +7,7 @@
 [Mm]emoryCaptures/
 Assets/AssetStoreTools*
 
+<<<<<<< HEAD
 # Visual Studio cache directory
 .vs/
 
@@ -44,3 +45,16 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
+=======
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+
+.idea/
+*.mdb
+*.pdb
+*.pidb
+*.opendb
+>>>>>>> 15273e4 (nov 16)
