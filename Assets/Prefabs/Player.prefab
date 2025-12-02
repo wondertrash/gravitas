@@ -269,6 +269,14 @@ MonoBehaviour:
       m_Groups: 
       m_Action: Jump Input
       m_Flags: 0
+    - m_Name: 
+      m_Id: a20d9c96-f270-4626-ad7e-e57365db2362
+      m_Path: <Keyboard>/w
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Jump Input
+      m_Flags: 0
     m_Flags: 0
   wallSlideSpeed: -2
   coyoteTime: 0.15
