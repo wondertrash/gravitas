@@ -39,9 +39,9 @@ Jump, dodge, and navigate through space and underground caves in this gravity-ba
 
 ## Credits
 
-Created by Benjamin Xie
-Music and sound effects from various free sources (thank you pixabay.com)
-Supercell (please don't sue me for using Golden Knight)
+- Created by Benjamin Xie
+- Music and sound effects from various free sources (thank you pixabay.com)
+- Supercell (please don't sue me for using Golden Knight)
 
 ## Play
 
